@@ -1,0 +1,20 @@
+﻿RegistrarUsuario
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea III\RegistrarUsuario\obj\Debug\netcoreapp3.1\
+RegistrarUsuario
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Asus\Documents\Programacion Aplicada I\Tarea III\RegistrarUsuario\App.xaml
+51351134340
+
+181852319224
+212394150240
+MainWindow.xaml;UI\Consultas\cRoles.xaml;UI\Consultas\cUsuarios.xaml;UI\Registros\rRoles.xaml;UI\Registros\rUsuarios.xaml;
+
+True
+
